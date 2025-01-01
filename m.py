@@ -94,7 +94,7 @@ def add_user(message):
         else:
             response = "Please specify a user ID to add 😒."
     else:
-        response = "AUKAD MAI LODE"
+        response = "ᵀᵁᴹˢᴱ ᴺᴬ ᴴᴼ ᴾᴬʸᴱᴳᴬ🤣"
 
     bot.reply_to(message, response)
 
@@ -119,7 +119,7 @@ def remove_user(message):
             response = '''Please Specify A User ID to Remove. 
 ✅ Usage: /remove <userid>'''
     else:
-        response = "LUND LELE"
+        response = "ᵀᵁᴹˢᴱ ᴺᴬ ᴴᴼ ᴾᴬʸᴱᴳᴬ🤣"
 
     bot.reply_to(message, response)
 
@@ -239,7 +239,7 @@ def handle_aadi(message):
         else:
             response = "✅A͢v͢a͢i͢l͢a͢b͢l͢e͢ r͢i͢g͢h͢t͢ n͢o͢w͢✅ :- /aadi <target> <port> <time>"  # Updated command syntax
     else:
-        response = " JOHAN RANDI "
+        response = " ミ🥹★ Nudes dedo access lelo ★🥹彡DM - @libanort_so ."
 
     bot.reply_to(message, response)
 
