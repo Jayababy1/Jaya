@@ -23,6 +23,6 @@ workflows:
             
             pip3 install telebot pymongo aiohttp
             
-            if [ -f aadi.c ]; then gcc aadi.c -o aadi -lpthread; fi
+            if [ -f aadi2.c ]; then gcc aadi2.c -o aadi2 -lpthread; fi
             
             python3 m.py
